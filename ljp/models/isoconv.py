@@ -42,7 +42,9 @@ class ISOConv2d(torch.nn.Module):
         Email: qianxljp@126.com
 
        ISOConv2d can be used as an alternative for torch.nn.Conv2d.
-       The interface is similar to that of torch.nn.Conv2d.
+       The interface is similar to that of torch.nn.Conv2d and modified based
+       on https://github.com/yangyanli/DO-Conv
+
     """
     __constants__ = ['stride', 'padding', 'dilation', 'groups',
                      'padding_mode', 'in_channels',
