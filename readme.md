@@ -76,7 +76,7 @@ The authors gratefully acknowledge the open-source dataset provided by the Prof.
 ---
 
 ## Citations
-Qian Xiang, Xiaodan Wang, Yafei Song, and Lei Lei. (2025). ISONet: Reforming 1DCNN for aero-engine system inter-shaft bearing fault diagnosis via input spatial over-parameterization. Expert Systems with Applications, 277, 127248. https://doi.org/10.1016/j.eswa.2025.127248
+**IF YOU USE THIS CODE, PLEASE CITE**: Qian Xiang, Xiaodan Wang, Yafei Song, and Lei Lei. (2025). ISONet: Reforming 1DCNN for aero-engine system inter-shaft bearing fault diagnosis via input spatial over-parameterization. Expert Systems with Applications, 277, 127248. https://doi.org/10.1016/j.eswa.2025.127248
 ```plaintext
 @article{xiang2025isonet,
   title={ISONet: Reforming {1DCNN} for aero-engine system inter-shaft bearing fault diagnosis via input spatial over-parameterization},
